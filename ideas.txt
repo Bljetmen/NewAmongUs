@@ -1,5 +1,3 @@
 Ideas for the new game can go in here
 -------------------------------------
-
-Jester mode
--There is crewmates, an imposter and a jester. The crewmates and imposter have their obvious tasks, but the jester has a special one. They must try to get voted out as best they can. They want people to think they are the imposter. If crewmates vote them out, the crewmates lose.
+jester mode: there is 1 impostor (optionally 2), crewmates and 1 jester. The jesters goal is to get kicked out of a meeting by crewmates thinking that he is the impostor, then he wins, the crewmates need to figure out who the impostor is and who the jester is, the jester cant sabotage or do tasks, he is there just to get kicked out, the impostor needs to kill everyone, and the crewmates need to finish their tasks. In case of there being left 1 impostor, 1 crewmate and 1 jester, if the jester gets kicked out he wins, if the crewmate gets kicked the impostor wins and if the impostor gets out the crewmates win. If the impostor kills the jester he could either win or just lose, we will think about it later.
