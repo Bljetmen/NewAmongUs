@@ -1,2 +1,8 @@
 Ideas for the new game can go in here
 -------------------------------------
+jester mode- game mode with 1 (optionally 2) impostors, crewmates who have goals just as the normal game, and 1 jester, who needs to convince everyone that he is the impostor and get kicked out of the game to win. He cant sabotage or kill people or do tasks, he needs to get kicked out of the game by people voting for him. In case of 1 impostor, 1 crewmate and 1 impostor remaining, it depends who dies next. If the impostor dies, the crewmates win, if the crewmates die the impostor wins, and if the jester dies, obviously he wins because he achieved his goal. Crewmates need to be more careful with voting, random votes in this gamemode will be rarer. (alternate name - kamikaze mode)
+colorless mode - everyone is the same color, could be chosen randomly or just gray. the names will still be there, but the colors wont. (this can be an option at the start of the game at the computer with the settings)
+pacman mode - there is a maze, could be simmilar to the pacman one, there is 1 impostor, and crewmates. Instead of doing tasks, they could pick up points, once the crewmates as a team collect them all they win, while avoiding the impostor (at the computer you can choose if he can be revealed or hidden). There are no meetings.
+waiting room improvement - there can be minigames while you wait for the lobby to start the game, to prevent people leaving before the start of the game. 
+there could be more cosmetics than the original among us, we can make them
+races - there could be a team or just 1v1, normal crewmates competing who will finish their tasks first, no impostors
